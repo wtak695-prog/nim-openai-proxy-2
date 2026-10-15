@@ -15,7 +15,7 @@ const DEFAULT_MODEL = 'moonshotai/kimi-k3';
 const MODEL_MAP = {
   'gpt-3.5-turbo': 'meta/llama-3.1-8b-instruct',
   'gpt-4':         'z-ai/glm-5.3',
-  'gpt-4-turbo':   'deepseek-ai/deepseek-v4-flash-0731',
+  'gpt-4-turbo':   'z-ai/glm-5.3-flash',
   'gpt-4o':        'moonshotai/kimi-k3'
 };
 
